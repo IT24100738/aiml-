@@ -1,0 +1,12 @@
+ npm init -y
+ npm install express mongoose cors dotenv
+ npm install nodemon --save-dev
+ npm run dev
+ MONGO_URI=
+ PORT=5001
+ Npm create vite@latest
+ git init
+ git add .
+git commit -am " ###"
+ git remote add origin url.git
+ git push origin master
