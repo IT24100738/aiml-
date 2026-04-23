@@ -10,3 +10,16 @@
 git commit -am " ###"
  git remote add origin url.git
  git push origin master
+
+
+
+root directory backend
+ build comand npm install
+ start comand node index.js
+ MONGODB_URI=mongodb://xs_db:qYeYCiYUB1A6sUXX@ac-rpuk88t-shard-00-00.zi08zmg.mongodb.net:27017,ac-rpuk88t-shard-00-01.zi08zmg.mongodb.net:27017,ac-rpuk88t-shard-00-02.zi08zmg.mongodb.net:27017/Hotel_Booking_System?ssl=true&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
+ dhanushaemalka@gmail.com = #20030126#
+#20030126#Dha
+
+MONGO_URI=mongodb://admin:%2320030126%23Dh@ac-1bhhe3s-shard-00-00.ayiv3xp.mongodb.net:27017,ac-1bhhe3s-shard-00-01.ayiv3xp.mongodb.net:27017,ac-1bhhe3s-shard-00-02.ayiv3xp.mongodb.net:27017/item-manager?tls=true&authSource=admin&replicaSet=atlas-gxzgzx-shard-0&retryWrites=true&w=majority
+PORT=5001
+kaiiyahikz@gmail.com = #20030126#Dh
